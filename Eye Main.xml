@@ -24,20 +24,13 @@
   </dir>
 </xml>
 
-<plugin>
-<name>30702</name>
-<link>plugin://plugin.video.eye/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
 
 <plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.eye/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>30701</name>
+<name>Settings</name>
 <link>plugin://plugin.video.eye/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
