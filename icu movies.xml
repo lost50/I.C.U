@@ -1,0 +1,25 @@
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
