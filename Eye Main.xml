@@ -3,6 +3,7 @@
     <title>movies</title>
     <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20movies.xml</link>
   </dir>
+  
 </xml>
   <dir>
     <title>TV</title>
@@ -32,6 +33,12 @@
 <title>B Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
 </dir>
+
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
+  </dir>
 
 <xml>
   <dir>
