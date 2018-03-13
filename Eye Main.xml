@@ -10,6 +10,29 @@
   </dir>
 </xml>
 
+<dir>
+<title>Hit List</title>
+<tmdb>list/https://www.themoviedb.org/list/50625</tmdb>
+</dir>
+
+
+<dir>
+<title>Stage Plays</title>
+<tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
+</dir>
+
+
+<dir>
+<title>Hood Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
+</dir>
+
+
+<dir>
+<title>B Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
+</dir>
+
 <xml>
   <dir>
     <title>Movies 247</title>
