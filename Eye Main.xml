@@ -1,3 +1,8 @@
+<dir>
+<title>New Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50672</tmdb>
+</dir>
+
 <xml>
   <dir>
     <title>movies</title>
@@ -10,6 +15,11 @@
     <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20tv.xml</link>
   </dir>
 </xml>
+
+<dir>
+<title>Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
 
 <dir>
 <title>Hit List</title>
