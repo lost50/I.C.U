@@ -1,5 +1,5 @@
 <dir>
-<title>New Movies</title>
+<title>I.C.U New Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/50672</tmdb>
 </dir>
 
@@ -17,7 +17,7 @@
 </xml>
 
 <dir>
-<title>Urban</title>
+<title>Urban TV</title>
 <tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
 </dir>
 
