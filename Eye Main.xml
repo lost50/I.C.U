@@ -26,12 +26,20 @@
 <tmdb>list/https://www.themoviedb.org/list/50791</tmdb>
 </dir>
 
-
 <dir>
 <title>Stage Plays</title>
 <tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
 </dir>
 
+<dir>
+<title>B Action</title>
+<tmdb>list/https://www.themoviedb.org/list/50862</tmdb>
+</dir>
+
+<dir>
+<title>B Comdey</title>
+<tmdb>list/https://www.themoviedb.org/list/50855</tmdb>
+</dir>
 
 <dir>
 <title>Hood Movies</title>
