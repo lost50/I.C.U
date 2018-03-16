@@ -32,24 +32,34 @@
 </dir>
 
 <dir>
+<title>B Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
+</dir>
+
+<dir>
 <title>B Action</title>
 <tmdb>list/https://www.themoviedb.org/list/50862</tmdb>
 </dir>
 
 <dir>
-<title>B Comdey</title>
+<title>Standup Comdey</title>
+<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
+</dir>
+
+<dir>
+<title>A Comdey</title>
 <tmdb>list/https://www.themoviedb.org/list/50855</tmdb>
+</dir>
+
+..
+<dir>
+<title> B Comdey</title>
+<tmdb>list/https://www.themoviedb.org/list/48100</tmdb>
 </dir>
 
 <dir>
 <title>Hood Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
-</dir>
-
-
-<dir>
-<title>B Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
 </dir>
 
 <xml>
