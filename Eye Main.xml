@@ -21,10 +21,11 @@
 <tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
 </dir>
 
-<dir>
-<title>Hit List</title>
-<tmdb>list/https://www.themoviedb.org/list/50791</tmdb>
-</dir>
+<xml>
+  <dir>
+    <title>Hit List</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20hit%20list.xml</link>
+  </dir>
 
 <dir>
 <title>Stage Plays</title>
@@ -36,26 +37,17 @@
 <tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
 </dir>
 
-<dir>
-<title>B Action</title>
-<tmdb>list/https://www.themoviedb.org/list/50862</tmdb>
-</dir>
+<xml>
+  <dir>
+    <title>B Genres</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20genra.xml</link>
+ </dir>
 
-<dir>
-<title>Standup Comdey</title>
-<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
-</dir>
-
-<dir>
-<title>A Comdey</title>
-<tmdb>list/https://www.themoviedb.org/list/50855</tmdb>
-</dir>
-
-..
-<dir>
-<title> B Comdey</title>
-<tmdb>list/https://www.themoviedb.org/list/48100</tmdb>
-</dir>
+<xml>
+  <dir>
+    <title>Comedy</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
+  </dir>
 
 <dir>
 <title>Hood Movies</title>
