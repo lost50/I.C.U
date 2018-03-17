@@ -16,38 +16,28 @@
   </dir>
 </xml>
 
-<dir>
-<title>Urban TV</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
-</dir>
-
 <xml>
-  <dir>
-    <title>Hit List</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20hit%20list.xml</link>
-  </dir>
+<dir>
+  <title>Hit List</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20hit%20list.xml</link>
+</dir>
 
 <dir>
 <title>Stage Plays</title>
 <tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
 </dir>
 
-<dir>
-<title>B Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
-</dir>
-
 <xml>
   <dir>
-    <title>B Genres</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20genra.xml</link>
- </dir>
-
-<xml>
-  <dir>
-    <title>Comedy</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
+    <title>Urban Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20urban.xml</link>
   </dir>
+</xml>
+ 
+ <dir>
+  <title>Action List</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20action%20list.xml</link>
+</dir>
 
 <dir>
 <title>Hood Movies</title>
