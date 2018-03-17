@@ -1,9 +1,15 @@
 <dir>
-<title>Hit List One </title>
+<title>Hit List 1</title>
 <tmdb>list/https://www.themoviedb.org/list/50791</tmdb>
 </dir>
 
 <dir>
-<title>Hit List Two</title>
+<title>Hit List 2</title>
 <tmdb>list/https://www.themoviedb.org/list/50625</tmdb>
+</dir>
+
+
+<dir>
+<title>Hit list 3</title>
+<tmdb>list/https://www.themoviedb.org/list/48681</tmdb>
 </dir>

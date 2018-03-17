@@ -8,12 +8,10 @@
   <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
 
-  
 <dir>
     <title>TV Genres</title>
     <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
   </dir>
- 
  
 <dir>
 <title>Networks</title>

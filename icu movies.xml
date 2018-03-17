@@ -23,3 +23,24 @@
       <tmdb>movies/popular</tmdb> 
 </dir>
 
+<dir>
+<title>IMDB Top Action Movies</title>
+<imdburl>list/ls021242932</imdburl>
+<thumbnail></thumbnail>
+
+<dir>
+<title>IMDB TOP 100 Gangster List</title>
+<imdburl>list/ls001818278</imdburl>
+</dir>
+
+<dir>
+<title>IMDB dc/mrval</title>
+<imdburl>http://www.imdb.com/list/ls021993452/</imdburl>
+</dir>
+
+<dir>
+<title>Search IMDB Movies</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
