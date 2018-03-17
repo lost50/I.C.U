@@ -39,9 +39,10 @@
   <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20action%20list.xml</link>
 </dir>
 
-<dir>
-<title>Hood Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
+ 
+ <dir>
+  <title>Hood Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/icu%20hood.xml</link>
 </dir>
 
 <xml>
