@@ -3,8 +3,18 @@
 <tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
 </dir>
 
+<dir>
+<title>Motown</title>
+<tmdb>list/https://www.themoviedb.org/list/48626</tmdb>
+</dir>
+
+<dir>
+<title>lovers only</title>
+<tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
+</dir>
+
 <xml>
-  <dir>
+<dir>
     <title>B Genres</title>
     <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20genra.xml</link>
  </dir>
