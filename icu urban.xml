@@ -4,13 +4,23 @@
 </dir>
 
 <dir>
+<title>B Movies 2</title>
+<tmdb>list/https://www.themoviedb.org/list/51248</tmdb>
+</dir>
+
+<dir>
 <title>Motown</title>
-<tmdb>list/https://www.themoviedb.org/list/48626</tmdb>
+<tmdb>list/https://www.themoviedb.org/list/51461</tmdb>
 </dir>
 
 <dir>
 <title>lovers only</title>
 <tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
+</dir>
+
+<dir>
+<title>Concert</title>
+<tmdb>list/https://www.themoviedb.org/list/51471</tmdb>
 </dir>
 
 <xml>
