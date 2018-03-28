@@ -17,8 +17,18 @@
 </xml>
 
 <dir>
+  <title>Movie Trialers</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/movie%20trialers.xml</link>
+</dir>
+
+<dir>
   <title>E.O.D</title>
   <link>https://raw.githubusercontent.com/lost50/I.C.U/master/eod%20movie%20pack.xml</link>
+</dir>
+
+<dir>
+  <title>Kung Fu Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/movie%20trialers.xml</link>
 </dir>
 
 <xml>
