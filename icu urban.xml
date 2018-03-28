@@ -1,3 +1,20 @@
+ 
+ <dir>
+  <title>Black One Play Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/eod%20black%20dir.xml</link>
+</dir>
+ 
+ <dir>
+  <title>One Play Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/eod%20dir%20movies.xml</link>
+</dir>
+
+ 
+ <dir>
+  <title>Hood One Play Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/eod%20hood%20dir.xml</link>
+</dir>
+
 <dir>
 <title>B Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
@@ -21,6 +38,11 @@
 <dir>
 <title>Concert</title>
 <tmdb>list/https://www.themoviedb.org/list/51471</tmdb>
+</dir>
+
+<dir>
+<title>Dance</title>
+<tmdb>list/https://www.themoviedb.org/list/48623</tmdb>
 </dir>
 
 <xml>
